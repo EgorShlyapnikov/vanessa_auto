@@ -2,6 +2,7 @@
 
 @tree
 @ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: заполнение шапки заказа 
  
